@@ -1,0 +1,185 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+.text-center {
+  color: #004795 !important;
+}
+.navbar {
+  background-color: #d2691e !important;
+}
+.navbar-nav li a,
+.navbar-brand h2 a {
+  color: white !important;
+}
+.hero-1 a,
+.hero-1 h1,
+.hero-1 h2 {
+  color: #004795;
+}
+.menu li a {
+  font-weight: 600;
+}
+/*************************Page**************************************/
+#page {
+  margin-top: 4%;
+  margin-bottom: 4%;
+}
+#page form {
+  background-color: white;
+  padding: 2rem;
+  border-radius: 25px;
+  border: 2px solid whitesmoke;
+}
+#page form input,
+#page form button {
+  border-radius: 20px;
+}
+/****************************************HERO SECTION***************************************/
+#hero {
+  background-color: ghostwhite;
+}
+#hero .btnseek {
+  background-color: #004795 !important;
+  width: 75%;
+  color: #d3fcff !important;
+  font-size: 14px;
+}
+#hero .btnseek:hover {
+  background-color: goldenrod !important;
+}
+#basp {
+  background-color: orangered !important;
+  color: white !important;
+  font-size: 14px;
+}
+/**********************************Footer************************************/
+footer {
+  background-color: #004795;
+}
+#footer p a,
+#footer h4,
+#footer h6,
+#footer p {
+  color: #d3fcff !important;
+}
+#footer Link {
+  color: white;
+}
+/*****************************Blog Page************************/
+#blog h4 {
+  color: #004795 !important;
+}
+#blog p {
+  color: gray !important;
+}
+.card {
+  border: 2px solid whitesmoke;
+}
+/**************************Apply Job Form*************************/
+#contact-col label span {
+  color: red;
+}
+#contact-col label,
+#contact-col h4 {
+  color: #004795;
+}
+/********************************************App Download Section*-*******************************/
+.appdownload {
+  background-color: #004795;
+}
+
+/***************************************Semi Arc/*************************************/
+.partnerarc {
+  margin: 0px;
+  background: radial-gradient(
+      80% 180px at 50% -30px,
+      #fdfdfd 75%,
+      transparent 75%
+    )
+    no-repeat;
+  height: 180px;
+  transform: rotate(180deg);
+}
+
+.associationarc {
+  margin: 0px;
+  background: radial-gradient(
+      80% 180px at 50% -30px,
+      #f5f5f5 75%,
+      transparent 75%
+    )
+    no-repeat;
+  height: 180px;
+  transform: rotate(180deg);
+}
+.heroarc {
+  margin: 0px;
+  background: radial-gradient(
+      80% 180px at 50% -30px,
+      ghostwhite 75%,
+      transparent 75%
+    )
+    no-repeat;
+  height: 180px;
+}
+.servicesarc {
+  margin: 0px;
+  background: radial-gradient(
+      80% 180px at 50% -30px,
+      #fdfdfd 75%,
+      transparent 75%
+    )
+    no-repeat;
+  height: 180px;
+  transform: rotate(180deg);
+}
+/******************************Video section*************/
+.video iframe {
+  border: 12px solid white;
+  border-radius: 25px;
+}
+.whyus {
+  background-color: #f5f5f5;
+  color: #004795;
+}
+.whyusdesc p {
+  font-size: small;
+  color: darkslategray;
+}
+
+/*****************************Testimonial Card*******************/
+.testimonial-card img {
+  width: 100px;
+  height: 100px;
+  margin-top: 5px;
+}
+.accordion-button,
+.accordion-body {
+  padding: 0.8rem 0.8rem !important;
+}
+.accordion-body {
+  color: #004795;
+}
+#Itservices .card-title {
+  color: white !important;
+  font-size: x-large;
+}
+#Itservices .card-body {
+  color: ghostwhite;
+}
+#accountingservices .card-title {
+  color: white !important;
+}
+#servicerequest .form-check-label {
+  font-size: 16px;
+}
+#servicerequestmodal {
+  width: 450px;
+}
+.modal-body {
+  padding: 0.1rem 0.5rem;
+}
+.modal-footer {
+  justify-content: flex-start !important;
+}
